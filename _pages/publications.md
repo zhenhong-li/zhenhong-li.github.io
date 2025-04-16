@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 2
 ---
-For a more up-to-date publication list, please refer to <a href="https://scholar.google.com" style="color: purple;">Google Scholar</a>.
+For a up-to-date publication list, please refer to <a href="https://scholar.google.com/citations?hl=en&user=TxurO5wAAAAJ&view_op=list_works&sortby=pubdate" style="color: purple;">Google Scholar</a>.
 
 <!-- _pages/publications.md -->
 
