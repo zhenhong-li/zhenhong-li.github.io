@@ -41,7 +41,10 @@ Address：Core One, 3rd Floor, Nancy Rothwell Building,  Booth St E, Manchester 
 <a href="https://scholar.google.com/citations?hl=en&user=TxurO5wAAAAJ&view_op=list_works&sortby=pubdate">
   <i class="ai ai-google-scholar" style="font-size: 24px;"></i>
 </a>
-<a href="https://www.manchester.ac.uk/" target="_blank" rel="noopener">
+<a href="https://neurorobotics-uom.github.io/" target="_blank" rel="noopener">
+  <i class="far fa-window-maximize" style="font-size: 24px;"></i>
+</a>
+<a href="https://research.manchester.ac.uk/en/persons/zhenhong-li" target="_blank" rel="noopener">
   <i class="fas fa-briefcase" style="font-size: 24px;"></i>
 </a>
 <a href="https://uk.linkedin.com/in/zhenhong-li-ba371020b" target="_blank" rel="noopener">
@@ -52,10 +55,11 @@ Address：Core One, 3rd Floor, Nancy Rothwell Building,  Booth St E, Manchester 
 </a>
 
 
-Zhenhong Li is currently Lecturer (Assistant Professor) in Robotics and Control at the [University of Manchester](https://www.manchester.ac.uk/) (UoM) holding an EPSRC Fellowship on physical human-robot interaction. He leads [Neurorobotics Lab](https://neurorobotics-uom.github.io/) at UoM. He received the B.Eng. degree in Electrical Engineering from [Huazhong University of Science and Technology](https://english.hust.edu.cn/) (HUST) in 2013, and the M.Sc. and the Ph.D. degrees in Control Engineering from the UoM in 2014 and 2019, respectively. Before joining UoM in 2023, he was a Research Fellow in Rehabilitation Robotics at the [University of Leeds](https://www.leeds.ac.uk/) from 2019 to 2023.
+Zhenhong Li is currently Lecturer (Assistant Professor) in Robotics and Control at the [University of Manchester](https://www.manchester.ac.uk/) (UoM) holding an EPSRC Fellowship on physical human-robot interaction. He received the B.Eng. degree in Electrical Engineering from [Huazhong University of Science and Technology](https://english.hust.edu.cn/) (HUST) in 2013, and the M.Sc. and the Ph.D. degrees in Control Engineering from the UoM in 2014 and 2019, respectively. Before joining UoM in 2023, he was a Research Fellow in Rehabilitation Robotics at the [University of Leeds](https://www.leeds.ac.uk/) from 2019 to 2023.
 
-His research focuses on developing innovative control technologies for human-robot systems with broad applications in industry and healthcare. His research interests include physical human-robot interaction; neuromusculoskeletal modelling；multimodal brain-computer interfaces for robot control and brain monitoring. In general, he is particularly interested in taking highly multidisciplinary approaches to better understand human systems and develop intelligent interaction strategies for robotic devices.
+He leads [`Neurorobotics Lab`](https://neurorobotics-uom.github.io/) at UoM. His research focuses on developing innovative control technologies for human-robot systems with broad applications in industry and healthcare. His research interests include `physical human-robot interaction`; `neuromusculoskeletal modelling`；`multimodal brain-computer interfaces` for robot control and brain monitoring. In general, he is particularly interested in taking highly multidisciplinary approaches to better understand human systems and develop intelligent interaction strategies for robotic devices.
 
-Dr Li is looking for enthusiastic and highly motivated candidates to conduct PhD research. If you are interested in joining us, please feel free to contact [zhenhong.li@manchester.ac.uk](mailto:zhenhong.li@manchester.ac.uk).
+Dr Li is looking for enthusiastic and highly motivated candidates to conduct PhD research. If you are interested in joining us, please feel free to contact [`zhenhong.li@manchester.ac.uk`](mailto:zhenhong.li@manchester.ac.uk).
 
 
+cd
