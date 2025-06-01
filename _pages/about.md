@@ -62,4 +62,3 @@ He leads [`Neurorobotics Lab`](https://neurorobotics-uom.github.io/) at UoM. His
 Dr Li is looking for enthusiastic and highly motivated candidates to conduct PhD research. If you are interested in joining us, please feel free to contact [`zhenhong.li@manchester.ac.uk`](mailto:zhenhong.li@manchester.ac.uk).
 
 
-cd
