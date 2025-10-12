@@ -85,4 +85,12 @@ layout: default
       {% include newsletter.liquid center=true %}
     {% endif %}
   </article>
+  
+  <!-- Visitor map -->
+  {% if page.map_widget %}
+    <div style="max-width:200px; margin:auto;">
+      <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=yoU8HvzIT4sSBTva5s3tzn_x-c7xoh_4vRs6a17ZrgA"></script>
+    </div>
+  {% endif %}
+
 </div>
