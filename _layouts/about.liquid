@@ -84,13 +84,12 @@ layout: default
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
       {% include newsletter.liquid center=true %}
     {% endif %}
-  </article>
   
-  <!-- Visitor map -->
-  {% if page.map_widget %}
-    <div style="max-width:200px; margin:auto;">
-      <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=yoU8HvzIT4sSBTva5s3tzn_x-c7xoh_4vRs6a17ZrgA"></script>
-    </div>
-  {% endif %}
+    <!-- Visitor map -->
+    {% if page.map_widget %}
+      <div style="max-width:200px; margin:auto;">
+        <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=HqAP6DtbxGPw-uXqchrQp7PscEZv2Htg9OwR0ofc_UI"></script>
+    {% endif %}
+  </article>
 
 </div>
